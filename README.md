@@ -1,2 +1,2 @@
-# IT1C_ESQUIVEL
+# ITCS102-Codes-Repository
 aktibitis
